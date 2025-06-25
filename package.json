@@ -46,13 +46,13 @@
     "cryptography",
     "data-hiding"
   ],
-  "repository": "https://github.com/yourusername/react-native-outguess",
-  "author": "Your Name <your.email@example.com> (https://github.com/yourusername)",
+  "repository": "https://github.com/zkgaojianjian/react-native-outguess",
+  "author": "zkgaojianjian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/react-native-outguess/issues"
+    "url": "https://github.com/zkgaojianjian/react-native-outguess/issues"
   },
-  "homepage": "https://github.com/yourusername/react-native-outguess#readme",
+  "homepage": "https://github.com/zkgaojianjian/react-native-outguess#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
